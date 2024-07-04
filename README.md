@@ -13,7 +13,7 @@
 
 ### :woman_technologist: About Me :
 I am a Full-Stack Software Engineering student at Holberton School Australia - Cohort 23 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- :telescope: I’m working currently working on an Airbnb clone called "Hbnb Evolution"
+- :telescope: I’m currently working on an Airbnb clone called "Hbnb Evolution".
 
 - :seedling: Currently learning Python, HTML, CSS, and JavaScript.
 
