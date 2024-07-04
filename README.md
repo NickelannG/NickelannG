@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="giphy.webp" width="500"/>
+  <img src="giphy.webp" width="400"/>
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/nicole-ann-gorospe/">
