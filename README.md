@@ -8,9 +8,9 @@
   <h1>
   Hey there!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Verdana&pause=1000&color=F7F7F7&width=435&lines=My+Name+is+Nicole" alt="Typing SVG" /></a>
   </h1>
 </div>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Verdana&pause=1000&color=F7F7F7&width=435&lines=My+Name+is+Nicole" alt="Typing SVG" /></a>
 
 ### :woman_technologist: About Me :
 - I am a Full-Stack Software Engineering student at Holberton School Australia - Cohort 23 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
