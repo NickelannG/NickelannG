@@ -37,3 +37,8 @@ I am a Full-Stack Software Engineering student at Holberton School Australia - C
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=NickelannG&theme=dark&background=000000)](https://git.io/streak-stats)&nbsp;&nbsp;&nbsp;&nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NickelannG)](https://github.com/anuraghazr/github-readme-stats)
+
+---
+
+### Now PLaying :headphones: :
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=1128921799&cover_image=true&theme=default&show_offline=false&background_color=0f0f0f&interchange=false&bar_color=6be1aa)](https://github.com/kittinan/spotify-github-profile)
