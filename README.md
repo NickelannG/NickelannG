@@ -40,5 +40,5 @@ I am a Full-Stack Software Engineering student at Holberton School Australia - C
 
 ---
 
-### Now PLaying :headphones: :
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=1128921799&cover_image=true&theme=default&show_offline=false&background_color=0f0f0f&interchange=false&bar_color=6be1aa)](https://github.com/kittinan/spotify-github-profile)
+### :headphones: Now Playing :
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=1128921799&cover_image=true&theme=novatorem&show_offline=false&background_color=0f0f0f&interchange=false&bar_color=6be1aa&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
