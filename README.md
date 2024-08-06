@@ -12,7 +12,7 @@
 </div>
 
 :woman_technologist: [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=About+Me%3A)](https://git.io/typing-svg)
-I am a Full-Stack Software Engineering student at Holberton School Australia - Cohort 23 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- I am a Full-Stack Software Engineering student at Holberton School Australia - Cohort 23 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - :telescope: I’m currently working on an Airbnb clone called "Hbnb Evolution".
 
 - :seedling: Currently learning Python, HTML, CSS, and JavaScript.
