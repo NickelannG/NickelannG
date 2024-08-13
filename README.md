@@ -34,7 +34,7 @@
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=NickelannG&theme=dark&background=000000)](https://git.io/streak-stats)&nbsp;&nbsp;&nbsp;&nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NickelannG)](https://github.com/anuraghazr/github-readme-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=NickelannG&theme=dark&background=40E0D0)](https://git.io/streak-stats)&nbsp;&nbsp;&nbsp;&nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NickelannG)](https://github.com/anuraghazr/github-readme-stats)
 ![Profile views](https://komarev.com/ghpvc/?username=NickelannG&color=40E0D0&style=plastic)
 
 ---
