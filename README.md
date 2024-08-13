@@ -35,6 +35,7 @@
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=NickelannG&theme=dark&background=000000)](https://git.io/streak-stats)&nbsp;&nbsp;&nbsp;&nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NickelannG)](https://github.com/anuraghazr/github-readme-stats)
+![Profile views](https://visitor-badge.glitch.me/badge?page_id=NickelannG.NickelannG)
 
 ---
 
